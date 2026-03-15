@@ -4,7 +4,7 @@
 一种基于 RP2040 的硬件解决方案，通过拦截并补偿 HID 信号，旨在消除安卓设备上的鼠标加速。
 
 项目说明：
-本项目基于 Arduino IDE 1.8.19 开发，使用了由 sekigon-gonnoc 开发的 Pico-PIO-USB 库。由于目前尚未明确安卓系统具体的鼠标加速算法，现阶段仅实现了**信号透传（Passthrough）**功能。
+本项目基于 Arduino IDE 1.8.19 开发，使用了由 sekigon-gonnoc 开发的 Pico-PIO-USB 库。由于目前尚未明确安卓系统具体的鼠标加速算法，现阶段仅实现了信号透传（Passthrough）功能。
 
 备注：
 本项目所有代码均由 AI 生成。
