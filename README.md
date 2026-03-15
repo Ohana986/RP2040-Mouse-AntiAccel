@@ -5,6 +5,7 @@
 
 **项目说明：**
 本项目基于 Arduino IDE 1.8.19 开发，使用了由 sekigon-gonnoc 开发的 Pico-PIO-USB 库。由于目前尚未明确安卓系统具体的鼠标加速算法，现阶段仅实现了信号透传（Passthrough）功能。
+
 想要实现透传，需要给RP2040添加一个usb母口：
 
 * **红色线** -> VBUS 
